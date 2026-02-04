@@ -35,7 +35,7 @@ Used to trace the path packets take to reach a website
 - ISP hostnames resolved, confirming the traffic passed through the Vodacom backbone.
 - Final hops reached Google-owned IP addresses, confirming successful end-to-end connectivity.
 
-###final results
+##final results
 
 - The computer received a private IP address.
 - Ping responses were successful.
